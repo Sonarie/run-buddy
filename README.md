@@ -12,3 +12,5 @@ https://Sonarie.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Sonja
+
+## ©️2019 Run Buddy, Inc
