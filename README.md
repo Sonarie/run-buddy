@@ -8,7 +8,7 @@ HTML
 CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://Sonarie.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Sonja
